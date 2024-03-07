@@ -1,0 +1,457 @@
+# Translation of Plugins - Orphans - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - Orphans - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-21 07:45:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - Orphans - Stable (latest release)\n"
+
+#. Plugin URI of the plugin
+#: sierotki.php
+msgid "https://github.com/iworks/sierotki"
+msgstr "https://github.com/iworks/sierotki"
+
+#: etc/options.php:94
+msgid "Pages"
+msgstr "Strony"
+
+#: etc/options.php:93
+msgid "Posts"
+msgstr "Wpisy"
+
+#: includes/iworks/options/options.php:1921
+msgid "Failed Security Check"
+msgstr "Nieudana kontrola bezpieczeństwa"
+
+#: etc/options.php:58
+msgid "Select if you want to force the loading of English short words."
+msgstr "Wybierz jeżeli chcesz wymusić ładowanie krótkich angielskich słów."
+
+#: etc/options.php:57
+msgid "English"
+msgstr "Angielski"
+
+#: etc/options.php:277
+msgid "Use a comma to separate custom fields name (meta fields)."
+msgstr "Użyj przecinka, aby oddzielić nazwy własnych pól (meta)."
+
+#: etc/options.php:62
+msgid "Select if you want to rely only on your terms."
+msgstr "Wybierz, czy chcesz używać tylko własnych wartości."
+
+#: etc/options.php:61
+msgid "Do not load any files"
+msgstr "Nie ładuj żadnych plików"
+
+#: etc/options.php:54
+msgid "Select if you want to force the loading of Czech language rules."
+msgstr "Wybierz, jeżeli chcesz wymusić ładowanie reguł języka czeskiego."
+
+#: etc/options.php:53
+msgid "Czech"
+msgstr "Czeski"
+
+#: etc/options.php:50
+msgid "Select if you want to force the loading of Polish language rules."
+msgstr "Wybierz, jeżeli chcesz wymusić ładowanie reguł języka polskiego."
+
+#: etc/options.php:49
+msgid "Polish"
+msgstr "Polski"
+
+#: etc/options.php:46
+msgid "Select if you want the plugin to determine which file to load based on the site's language settings."
+msgstr "Wybierz, czy chcesz aby wtyczka określała, który plik załadować na podstawie ustawień językowych witryny."
+
+#: etc/options.php:45
+msgid "Try to use the site locale to determine the file name"
+msgstr "Spróbuj użyć ustawień regionalnych witryny, aby określić nazwę pliku"
+
+#: etc/options.php:41
+msgid "Language File"
+msgstr "Plik językowy"
+
+#: etc/options.php:35
+msgid "Terms"
+msgstr "Wartości"
+
+#: etc/options.php:221
+msgid "Enabled the substitution of orphans in Translations functions. <a href=\"https://developer.wordpress.org/themes/functionality/internationalization/\" target=\"_blank\">Read more.</a> <b>WARNING: this can slow your site!</b>"
+msgstr "Włączono zastępowanie sierot w funkcjach obsługi tłumaczeń. <a href=\"https://developer.wordpress.org/themes/functionality/internationalization/\" target=\"_blank\">Dowiedz się więcej.</a> <b>OSTRZEŻENIE: może to spowolnić witrynę!</b>"
+
+#: etc/options.php:220
+msgid "Translation Functions"
+msgstr "Funkcje obsługi tłumaczeń"
+
+#: etc/options.php:268
+msgid "Allow to ignore spaces in \"class\", \"style\" and \"data-*\" attributes."
+msgstr "Dodano ignorowanie spacji w atrybutach: \"class\", \"style\" and \"data-*\"."
+
+#: etc/options.php:266
+msgid "Protect Tag Attributes"
+msgstr "Ochrona atrybutów tagu"
+
+#: includes/iworks/rate/templates/plugins/og.php:24
+msgid "Install"
+msgstr "Zainstaluj"
+
+#. translators: %s is a plugin name with url
+#: includes/iworks/rate/templates/plugins/og.php:13
+msgid "Don't wait, install plugin %s!"
+msgstr "Nie czekaj, zainstaluj wtyczkę %s!"
+
+#: includes/iworks/rate/templates/plugins/og.php:6
+msgid "Would you like to boost your website sharing abilities?"
+msgstr "Czy chcesz zwiększyć możliwości dzielenia się witryną?"
+
+#: includes/iworks/rate/rate.php:563
+msgid "OG — Better Share on Social Media"
+msgstr "OG — Lepsze udostępnianie w mediach społecznościowych"
+
+#: includes/iworks/rate/rate.php:547
+msgid "OpenGraph"
+msgstr "OpenGraph"
+
+#: etc/options.php:251
+msgid "Enabled the substitution of orphans in the menu title."
+msgstr "Włącz obsługę sierotek w tytułach elementów menu."
+
+#: etc/options.php:249
+msgid "Menu Title"
+msgstr "Tytuły w menu"
+
+#: includes/iworks/options/options.php:769
+#: includes/iworks/options/options.php:1802
+msgid "Select Image"
+msgstr "Wybierz obrazek"
+
+#: etc/options.php:334
+msgid "Enabled the substitution of orphans in WYSIWYG fields."
+msgstr "Włącz obsługę sierotek w polach edytora wizualnego."
+
+#: etc/options.php:333
+msgid "WYSIWYG"
+msgstr "Edytor wizualny"
+
+#: etc/options.php:325
+msgid "Enabled the substitution of orphans in textarea fields. (Include WYSIWYG)."
+msgstr "Włącz obsługę sierotek w polach tekstu. (W tym edytor wizualny)."
+
+#: etc/options.php:324
+msgid "Textarea"
+msgstr "Pole tekstowe"
+
+#: etc/options.php:316
+msgid "Enabled the substitution of orphans in text fields."
+msgstr "Włącz obsługę sierotek w polu tekstowym (jedna linia)."
+
+#: etc/options.php:315
+msgid "Text"
+msgstr "Tekst"
+
+#: etc/options.php:310
+msgid "Advanced Custom Fields"
+msgstr "Advanced Custom Fields"
+
+#: etc/options.php:305
+msgid "Integrations"
+msgstr "Integracje"
+
+#: etc/options.php:170
+msgid "Enabled the substitution of orphans in the widget blocks."
+msgstr "Włącz obsługę sierotek w blokach widżetów."
+
+#: etc/options.php:168
+msgid "Widget Block Content"
+msgstr "Treść bloku widżetów"
+
+#: includes/iworks/rate/templates/widgets/support.php:29
+msgid "Do you like our plugin? Could you rate him? Please let us know what you think about our plugin. It is important that we can develop this tool. Thank you for all the ratings, reviews and donates."
+msgstr "Jak podoba się nasza wtyczka? Masz możliwość ją ocenić? Daj nam znać, co o niej myślisz. To dla nas bardzo ważne, aby móc ją rozwijać. Dziękujemy za wszystkie oceny, recenzje oraz dodatkowe wsparcie."
+
+#. translators: %1$s: open anchor tag, %2$s: close anchor tag, %3$s: open
+#. anchor tag, %4$s: close anchor tag
+#: includes/iworks/rate/templates/widgets/support.php:14
+msgid "Please %1$scheck our FAQ%2$s before adding a thread with technical problem. If you do not find help there, %3$scheck support forum%4$s for similar problems."
+msgstr "Zobacz %1$snasze FAQ%2$s zanim dodasz wątek w dziale pomocy technicznej. Jeżeli nie znajdziesz tam pomocy, sprawdź również %3$sforum techniczne%4$s pod kątem podobnych problemów."
+
+#: includes/iworks/rate/templates/widgets/support.php:5
+msgid "Do you have a technical problem? Please contact us. We will be happy to help you. Or maybe you have an idea for a new feature? Please let us know about it by filling the support form. We will try to add it!"
+msgstr "Masz problem techniczny? Prosimy o kontakt z nami. Z przyjemnością tobie pomożemy. A może masz pomysł na nową funkcjonalność? Poinformuj nas o tym, dodając wątek na forum technicznym. Weźmiemy to pod uwagę!"
+
+#: includes/iworks/rate/templates/widgets/donate.php:4
+msgid "Provide me a coffee"
+msgstr "Postaw mi kawę"
+
+#: includes/iworks/rate/templates/widgets/donate.php:3
+msgid "If every plugin user did it, I could devote myself fully to working on this plugin. Thanks everyone!"
+msgstr "Gdyby każdy użytkownik wtyczki to zrobił, to mógłbym poświęcić cały swój czas pracy nad wtyczką. Dziękuję każdemu!"
+
+#: includes/iworks/rate/templates/widgets/donate.php:2
+msgid "However, working on plugins and technical support requires many hours of work. If you want to appreciate it, you can provide me a coffee."
+msgstr "Praca nad wtyczkami oraz świadczenie pomocy technicznej wymaga ode mnie wielu godzin ciężkiej pracy. Jeżeli chcesz to docenić, możesz postawić mi kawę."
+
+#: includes/iworks/rate/templates/thanks.php:41
+msgid "I added review, do not show again"
+msgstr "Recenzja została dodana, nie pokazuj ponownie"
+
+#: includes/iworks/rate/rate.php:147
+#: includes/iworks/rate/templates/thanks.php:39
+msgid "Provide us a coffee"
+msgstr "Postaw nam kawę"
+
+#: includes/iworks/rate/templates/thanks.php:37
+#: includes/iworks/rate/templates/widgets/support.php:34
+msgid "Add review"
+msgstr "Dodaj recenzję"
+
+#: includes/iworks/rate/templates/thanks.php:35
+#: includes/iworks/rate/templates/widgets/support.php:24
+msgid "Get help"
+msgstr "Uzyskaj pomoc"
+
+#. translators: %1$s: open anchor tag, %2$s: close anchor tag
+#: includes/iworks/rate/templates/thanks.php:31
+msgid "Please let us know what you think about our plugin. It is important that we can develop this tool. Thank you for all the ratings, reviews and donates. If you have a technical problem, please before you add a review %1$scheck our FAQ%2$s or contact us if you did not find help there. We will try to help you!"
+msgstr "Powiedz nam co myślisz o naszej wtyczce. To jest bardzo ważne dla nas i pozwoli nam ją rozwijać. Dziękujemy serdecznie za wszystkie oceny, recenzje i dodatkowe wsparcie. Jeżeli masz problem techniczny, prosimy zanim dodasz recenzję %1$ssprawdź nasze FAQ%2$s lub skontaktuj się z nami, jeżeli nie znajdziesz tam pomocy. Postaramy się tobie pomóc!"
+
+#. translators: %s is a plugin name wrapped by strong html tag
+#: includes/iworks/rate/templates/thanks.php:23
+msgid "Thank you for using our plugin %s!"
+msgstr "Dziękujemy za używanie naszej wtyczki %s!"
+
+#. translators: %s: plugin slug
+#: includes/iworks/rate/rate.php:466
+msgctxt "plugins support home"
+msgid "https://wordpress.org/support/plugin/%s"
+msgstr "https://wordpress.org/support/plugin/%s"
+
+#. translators: %s: plugin slug
+#: includes/iworks/rate/rate.php:459
+msgctxt "plugins home"
+msgid "https://wordpress.org/plugins/%s"
+msgstr "https://pl.wordpress.org/plugins/%s"
+
+#: includes/iworks/options/options.php:1699
+msgid "ZIP code"
+msgstr "Kod pocztowy"
+
+#: includes/iworks/options/options.php:1698
+msgid "Street"
+msgstr "Ulica"
+
+#: includes/iworks/options/options.php:1697
+msgid "City"
+msgstr "Miejscowość"
+
+#: includes/iworks/options/options.php:1696
+msgid "Country"
+msgstr "Kraj"
+
+#: etc/options.php:291
+msgid "I love what I do!"
+msgstr "Kocham to co robię!"
+
+#: etc/options.php:285 etc/options.php:421
+msgid "We are waiting for your message"
+msgstr "Czekamy na twoją wiadomość"
+
+#: etc/options.php:275
+msgid "Entries Custom Fields"
+msgstr "Własne pola we wpisach"
+
+#: includes/iworks/options/options.php:1856
+msgid "ON"
+msgstr "WŁĄCZ"
+
+#: includes/iworks/options/options.php:1855
+msgid "OFF"
+msgstr "Wyłącz"
+
+#: includes/iworks/options/options.php:774
+msgid "Delete image"
+msgstr "Usuń obrazek"
+
+#: includes/iworks/options/options.php:258
+msgid "An error occurred while getting the configuration."
+msgstr "Wystąpił błąd przy pobieraniu konfiguracji."
+
+#: etc/options.php:423
+msgctxt "link to support forum on WordPress.org"
+msgid "https://wordpress.org/support/plugin/sierotki/"
+msgstr "https://wordpress.org/support/plugin/sierotki/"
+
+#: etc/options.php:401
+msgctxt "plugin home page on WordPress.org"
+msgid "https://wordpress.org/plugins/sierotki/"
+msgstr "https://pl.wordpress.org/plugins/sierotki/"
+
+#: etc/options.php:242
+msgid "Allow to use plugin with another languages then Polish."
+msgstr "Pozwala na włączenie wtyczki dla innych języków niż język polski."
+
+#: etc/options.php:240
+msgid "Ignore Language"
+msgstr "Ignoruj język"
+
+#: etc/options.php:233
+msgid "Enabled the substitution of orphans in the author description."
+msgstr "Włącz obsługę sierotek w opisie autora."
+
+#: etc/options.php:232
+msgid "Author Description"
+msgstr "Opis autora"
+
+#: etc/options.php:210
+msgid "Miscellaneous"
+msgstr "Różne"
+
+#: etc/options.php:203
+msgid "Enabled the substitution of orphans in the taxonomy description."
+msgstr "Włącz obsługę sierotek w opisach taksonomii."
+
+#: etc/options.php:201
+msgid "Description"
+msgstr "Opis"
+
+#: etc/options.php:194
+msgid "Enabled the substitution of orphans in the taxonomy title."
+msgstr "Włącz obsługę sierotek w tytułach taksonomii."
+
+#: etc/options.php:101 etc/options.php:192
+msgid "Title"
+msgstr "Tytuł"
+
+#: etc/options.php:180 etc/options.php:185
+msgid "Taxonomies"
+msgstr "Taksonomie"
+
+#: etc/options.php:156
+msgid "Widget Text"
+msgstr "Tekst widżetu"
+
+#: etc/options.php:144
+msgid "Widget Title"
+msgstr "Tytuł widżetu"
+
+#: etc/options.php:137
+msgid "Widgets"
+msgstr "Widżety"
+
+#: etc/options.php:129
+msgid "Comments"
+msgstr "Komentarze"
+
+#: etc/options.php:119
+msgid "Content"
+msgstr "Treść"
+
+#: etc/options.php:110
+msgid "Excerpt"
+msgstr "Zajawka"
+
+#: etc/options.php:88
+msgid "Post Types"
+msgstr "Typy treści"
+
+#: etc/options.php:80
+msgid "Entries"
+msgstr "Treści"
+
+#: etc/options.php:27
+msgid "Orphans Configuration"
+msgstr "Konfiguracja sierotek"
+
+#: etc/options.php:158
+msgid "Enabled the substitution of orphans in the widget text."
+msgstr "Włącz obsługę sierotek w treści widżetu tekstowego."
+
+#: etc/options.php:146
+msgid "Enabled the substitution of orphans in the widget title."
+msgstr "Włącz obsługę sierotek w tytule widżetu."
+
+#: includes/iworks/rate/rate.php:564
+msgid "https://wordpress.org/plugins/og/"
+msgstr "https://pl.wordpress.org/plugins/og/"
+
+#: etc/options.php:260
+msgid "Allow to keep together phone number or strings with space between numbers."
+msgstr "Pozwala na nierozdzielanie numeru telefonu oraz liczb między którymi jest spacja."
+
+#. Author URI of the plugin
+#: sierotki.php
+msgid "http://iworks.pl/"
+msgstr "http://iworks.pl/"
+
+#. Author of the plugin
+#: sierotki.php
+msgid "Marcin Pietrzak"
+msgstr "Marcin Pietrzak"
+
+#. Description of the plugin
+#: sierotki.php
+msgid "Implement Polish grammar rules with orphans."
+msgstr "Pilnuje zasady niezostawiania sierotek na końcu linii."
+
+#: includes/iworks/class-iworks-orphan.php:665
+#: includes/iworks/rate/rate.php:133
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: etc/options.php:423
+msgid "WordPress Help Forum"
+msgstr "Forum Pomocy WordPressa"
+
+#: etc/options.php:401
+msgid "Link to it so others can easily find it"
+msgstr "Odnośnik do wtyczki - żeby łatwo było znaleźć"
+
+#: etc/options.php:400
+msgid "Give it a five stars on WordPress.org"
+msgstr "Daj wtyczce pięć gwiazdek na WordPress.org"
+
+#: etc/options.php:398
+msgid "Below are some links to help spread this plugin to other users"
+msgstr "Poniższe odnośniki mogą pomóc innym w znalezieniu wtyczki"
+
+#: includes/iworks/options/options.php:862
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#. Plugin Name of the plugin
+#: sierotki.php etc/options.php:28 sierotki.php:118
+msgid "Orphans"
+msgstr "Sierotki"
+
+#: etc/options.php:73
+msgid "Use a comma to separate orphans."
+msgstr "Użyj przecinka do oddzielenia sierot."
+
+#: etc/options.php:71
+msgid "User Definied Orphans"
+msgstr "Własna definicja sierotek"
+
+#: etc/options.php:258
+msgid "Keep Numbers Together"
+msgstr "Trzymaj liczby razem"
+
+#: etc/options.php:121
+msgid "Enabled the substitution of orphans in the content."
+msgstr "Włącz obsługę sierotek w treści."
+
+#: etc/options.php:112
+msgid "Enabled the substitution of orphans in the excerpt."
+msgstr "Włącz obsługę sierotek w zajawce."
+
+#: etc/options.php:103
+msgid "Enabled the substitution of orphans in the post_title."
+msgstr "Włącz obsługę sierotek dla tytułów."
+
+#: etc/options.php:130
+msgid "Enabled the substitution of orphans in the comments."
+msgstr "Włącz obsługę sierotek w komentarzach."
